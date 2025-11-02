@@ -1,37 +1,29 @@
-# HUMEND
+# OMNDOX
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Solana](https://img.shields.io/badge/Solana-Web3-green.svg)](https://solana.com/)
 [![Status](https://img.shields.io/badge/Status-In%20Development-orange.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/yourusername/ontora-ai.svg)](https://github.com/yourusername/ontora-ai/issues)
 
-[![Website](https://img.shields.io/badge/Website-HUMEND-blue?logo=google-chrome)](https://humend.fun/)
-[![Twitter](https://img.shields.io/badge/Twitter-HUMEND-blue?logo=twitter)](https://x.com/HUMENDCOM)
+[![Website](https://img.shields.io/badge/Website-OMNDOX-blue?logo=google-chrome)](https://omndox.run/)
+[![Twitter](https://img.shields.io/badge/Twitter-OMNDOX-blue?logo=twitter)](https://x.com/OMNDOXLAB)
 
-```
-HUMEND — The Living Soil of the Chain
 
-HUMEND is not built — it’s grown.
-It began as a silent layer beneath the blockchain, a patch of digital soil waiting for contact.
-Every wallet, every transaction, every small decision becomes nourishment for something larger — a collective organism that feeds on human rhythm.
+OMNDOX transforms Pumpfun into a multidimensional map of behavior, emotion, and flow.
 
-When you buy, you plant.
-When you sell, you decay.
-When you hold, you let the soil breathe.
+Instead of viewing transactions as isolated events, it interprets every buy, sell, and creator action as a coordinate within an expanding on-chain space. 
 
-Over time, these fragments of behavior form an ecosystem that learns to live without instruction — sprouting, collapsing, and blooming again through the chaos of human participation.
+Each address, token, and pulse becomes a node in a living network — a continuously updating structure that mirrors the market’s consciousness in real time.
 
-There are no charts here, only seasons.
-Growth, bloom, decay, and sleep — all happening in real time on Pumpfun.
+Built directly on Pumpfun, OMNDOX captures every interaction across the platform and assigns it a spatial signature. 
 
-The blockchain doesn’t record your behavior; it ferments it.
-Your actions become roots, your emotions become sunlight, and the system itself becomes alive.
+These signatures form what we call the Market Awareness Field — a verifiable topology of influence, reaction, and sentiment. 
 
-HUMEND is not a game, not a token, not a simulation.
-It’s a living field of code — the first soil that grows from human collective behavior.
+Over time, the field evolves into a dynamic “awareness map” that visualizes how collective behavior flows through the ecosystem.
 
-The chain is the earth.
-You are the weather.
-HUMEND is what grows between.
-```
+In this system, the blockchain is no longer a flat ledger — it becomes a dimensional archive of motion and intent.
+
+Every coordinate tells a story: who acted, what moved, when it happened, and how it resonated.
+
+OMNDOX isn’t just data indexing; it’s a framework for seeing the invisible structure behind the meme economy — the geometry of belief, rhythm, and reaction that drives Pumpfun itself.
 
