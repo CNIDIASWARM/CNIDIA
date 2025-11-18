@@ -1,4 +1,4 @@
-import dotenv from 'dotenv';      HUMEND
+import dotenv from 'dotenv';      MELOAN
 import path from 'path';    
 
 dotenv.config({ path: path.resolve(process.cwd(), `.env.${process.env.NODE_ENV || 'development'}`) });
