@@ -8,6 +8,10 @@
 [![Website](https://img.shields.io/badge/Website-DIMVEX-blue?logo=google-chrome)](https://dimvex.run/)
 [![Twitter](https://img.shields.io/badge/Twitter-DIMVEX-blue?logo=twitter)](https://x.com/DIMVEXEXP)
 
+```
+CA:Ez2CejKwKfFbLJJo1DcEEQWcRZ3d3qsySrqf5g4cpump
+```
+
 ⭐ DIMVEX — Multi-Layer Reality Engine
 
 DIMVEX is a multi-layer dimensional state machine running on Solana, designed to translate raw on-chain activity into a living, reactive reality system. Instead of treating the blockchain as a linear sequence of records, DIMVEX interprets every buy, sell, wallet interaction, and volatility spike as a dimensional signal. These signals form the input of a real-time state engine that determines which reality layer the system currently occupies—whether it is noise, form, flow, distortion, or a hyper-dimensional state that operates under entirely different rules.
