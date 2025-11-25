@@ -8,6 +8,10 @@
 [![Website](https://img.shields.io/badge/Website-ACCREO-blue?logo=google-chrome)](https://accreo.fun/)
 [![Twitter](https://img.shields.io/badge/Twitter-ACCREO-blue?logo=twitter)](https://x.com/ACCREOSPL)
 
+```
+8RnUQZxtvxicisibtQUY1yi3q4HacbhazouN5Kg3pump
+```
+
 # Accreo — SPL Wallet Synergy Engine
 Rebuild your SPL wallet with synergy algorithms to achieve continuous net-value growth.
 
