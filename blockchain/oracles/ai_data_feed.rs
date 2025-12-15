@@ -1,5 +1,5 @@
 use anchor_lang::prelude::*;
-
+ 
 declare_id!("YourProgramIdHere11111111111111111111111111111111"); 
 
 // Constants for AI data feed configuration
